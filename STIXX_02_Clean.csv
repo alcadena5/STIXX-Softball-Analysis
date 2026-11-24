@@ -1,0 +1,51 @@
+Player_ID,Player_Name,Team,Jersey_Number,Position,Games_Played,At_Bats,Hits,Batting_Average
+P001,Avery Cooper,STX STIXX 12U Blue,4,Pitcher,16,61,5,0.082
+P002,Maya James,STX STIXX 12U Ruby,7,Catcher,11,25,20,0.800
+P003,Harper Flores,STX STIXX 2033,10,Shortstop,16,43,15,0.349
+P004,Lila Collins,STX STIXX Vera,13,First Base,10,36,22,0.611
+P005,Brooklyn Rivera,STX STIXX Gonzalez,16,Second Base,9,56,12,0.214
+P006,Ella Powell,STX STIXX 12U Blue,19,Third Base,13,34,17,0.500
+P007,Nora Hughes,STX STIXX 12U Ruby,22,Outfield,9,35,30,0.857
+P008,Sofia Morgan,STX STIXX 2033,25,Pitcher,12,38,32,0.842
+P009,Peyton Ward,STX STIXX Vera,28,Catcher,9,19,10,0.526
+P010,Zoey Gray,STX STIXX Gonzalez,2,Shortstop,16,30,7,0.233
+P011,Jade Reed,STX STIXX 12U Blue,5,First Base,9,47,16,0.340
+P012,Riley Sullivan,STX STIXX 12U Ruby,8,Second Base,8,24,17,0.708
+P013,Amelia Young,STX STIXX 2033,11,Third Base,14,24,22,0.917
+P014,Chloe Ross,STX STIXX Vera,14,Outfield,18,43,18,0.419
+P015,Aubrey Bennett,STX STIXX Gonzalez,17,Pitcher,16,37,22,0.595
+P016,Isla Foster,STX STIXX 12U Blue,20,Catcher,14,28,24,0.857
+P017,Mila Murphy,STX STIXX 12U Ruby,23,Shortstop,16,32,28,0.875
+P018,Quinn Brooks,STX STIXX 2033,26,Utility,9,54,27,0.500
+P019,Aria Bailey,STX STIXX Vera,29,Second Base,11,31,16,0.516
+P020,Leah Carter,STX STIXX Gonzalez,3,Third Base,12,26,8,0.308
+P021,Emery Howard,STX STIXX 12U Blue,6,Outfield,16,49,7,0.143
+P022,Sadie Hayes,STX STIXX 12U Ruby,9,Pitcher,8,63,18,0.286
+P023,Tessa Price,STX STIXX 2033,12,Catcher,15,47,32,0.681
+P024,Kendall Turner,STX STIXX Vera,15,Shortstop,16,56,7,0.125
+P025,Layla Parker,STX STIXX Gonzalez,18,First Base,16,48,30,0.625
+P026,Avery Cooper,STX STIXX 12U Blue,21,Second Base,14,49,15,0.306
+P027,Maya James,STX STIXX 12U Ruby,24,Third Base,10,52,31,0.596
+P028,Harper Flores,STX STIXX 2033,27,Outfield,9,18,7,0.389
+P029,Lila Collins,STX STIXX Vera,1,Pitcher,14,19,18,0.947
+P030,Brooklyn Rivera,STX STIXX Gonzalez,4,Catcher,18,46,7,0.152
+P031,Ella Powell,STX STIXX 12U Blue,7,Shortstop,12,63,24,0.381
+P032,Nora Hughes,STX STIXX 12U Ruby,10,First Base,12,26,19,0.731
+P033,Sofia Morgan,STX STIXX 2033,13,Second Base,12,46,16,0.348
+P034,Peyton Ward,STX STIXX Vera,16,Third Base,15,65,9,0.138
+P035,Zoey Gray,STX STIXX Gonzalez,19,Outfield,12,46,13,0.283
+P036,Jade Reed,STX STIXX 12U Blue,22,Pitcher,8,61,28,0.459
+P037,Riley Sullivan,STX STIXX 12U Ruby,25,Catcher,12,22,10,0.455
+P038,Amelia Young,STX STIXX 2033,28,Shortstop,14,61,28,0.459
+P039,Chloe Ross,STX STIXX Vera,2,First Base,9,24,18,0.750
+P040,Aubrey Bennett,STX STIXX Gonzalez,5,Second Base,15,47,20,0.426
+P041,Isla Foster,STX STIXX 12U Blue,8,Third Base,10,60,4,0.067
+P042,Mila Murphy,STX STIXX 12U Ruby,11,Outfield,12,45,24,0.533
+P043,Quinn Brooks,STX STIXX 2033,14,Pitcher,10,22,6,0.273
+P044,Aria Bailey,STX STIXX Vera,17,Catcher,12,28,17,0.607
+P045,Leah Carter,STX STIXX Gonzalez,20,Shortstop,9,47,30,0.638
+P046,Emery Howard,STX STIXX 12U Blue,23,First Base,15,30,23,0.767
+P047,Sadie Hayes,STX STIXX 12U Ruby,26,Second Base,17,61,29,0.475
+P048,Tessa Price,STX STIXX 2033,29,Third Base,18,45,24,0.533
+P049,Kendall Turner,STX STIXX Vera,3,Utility,14,27,4,0.148
+P050,Layla Parker,STX STIXX Gonzalez,6,Pitcher,12,57,24,0.421
